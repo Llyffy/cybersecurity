@@ -30,7 +30,7 @@
 
 ### Ответ к заданию 1:
 
-
+![image](https://github.com/Llyffy/cybersecurity/assets/53367937/afefedac-eca7-4838-833b-82d01b2f6a47)
 
 ------
 
@@ -45,7 +45,9 @@
 ------
 
 ### Ответ к заданию 2:
-  
+
+![image](https://github.com/Llyffy/cybersecurity/assets/53367937/7099b04b-db36-4179-8843-ceef87493f7d)
+
 ------
   
 ## Дополнительные задания (со звёздочкой*)
