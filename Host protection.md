@@ -46,7 +46,7 @@
 
 ### Ответ к заданию 2:
 
-![image](https://github.com/Llyffy/cybersecurity/assets/53367937/7099b04b-db36-4179-8843-ceef87493f7d)
+![image](https://github.com/Llyffy/cybersecurity/assets/53367937/a8f080e8-b259-486a-98f5-97148fcd2d05)
 
 ------
   
